@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mohamed Faalil and I'm a Software Engineer. 
+- 👋 Hi,This  Mohamed Faalil.
+- I'm Full stack Software Engineer. 
 - 📫 I can be reach viq following email mohamedfaalil05@gmail.com
 
 <!---
