@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Mohamed Faalil and I'm a software engineer. 
-- 👀 I’m interested in mathematics and programming stuffs
-- 🌱 I’m currently learning Data science concepts
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohamed Faalil and I'm a Software Engineer. 
 - 📫 I can be reach viq following email mohamedfaalil05@gmail.com
 
 <!---
